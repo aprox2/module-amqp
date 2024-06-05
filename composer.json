@@ -1,7 +1,7 @@
 {
-	"name": "codeception/module-amqp",
+	"name": "aprox2/module-amqp",
 	"description": "AMQP module for Codeception",
-	"keywords": [ "codeception", "amqp" ],
+	"keywords": [ "aprox2", "amqp" ],
 	"homepage": "https://codeception.com/",
 	"type": "library",
 	"license": "MIT",
